@@ -162,7 +162,7 @@ cython_debug/
 #.idea/
 
 # pt files
-weights/weight.pt
+VisionTransformer/weights/weight.pt
 
 
 
